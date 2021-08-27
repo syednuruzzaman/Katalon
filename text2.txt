@@ -1,0 +1,12 @@
+ Volume in drive C is Main
+ Volume Serial Number is 7EF0-21D9
+
+ Directory of C:\Git-Download\GitFolder
+
+2021-08-26  09:42 PM    <DIR>          .
+2021-08-26  09:42 PM    <DIR>          ..
+2021-08-26  08:28 PM                 0 index.html
+2021-08-26  08:01 PM                 0 test1.txt
+2021-08-26  09:42 PM                 0 text2.txt
+               3 File(s)              0 bytes
+               2 Dir(s)  65,524,084,736 bytes free
